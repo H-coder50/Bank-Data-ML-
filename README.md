@@ -1,7 +1,8 @@
 # Bank-Data-ML-
-The classification goal is to predict if the client will subscribe (yes/no) a term deposit (target 'y').
 
 We are going to perform a complete machine learning process on the Bank dataset.
+
+The classification goal is to predict if the client will subscribe (yes/no) a term deposit (target 'y').
 
 ⦁	Import Data
 
